@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github.com/IAMSSROBINSON/IAMSSROBINSON/blob/main/SSR677_ProfileImage.png?raw=true" align="center" style="width: 148px" />
+  <img src="https://github.com/ONESSR/ONESSR/blob/main/SSR677_ProfileImage.png?raw=true" align="center" style="width: 148px" />
 </div>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Stephen</h1>
