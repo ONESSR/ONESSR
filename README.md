@@ -1,6 +1,6 @@
-<div align="left">
+<!-- <div align="left">
   <img src="https://github.com/ONESSR/ONESSR/blob/main/SSR677_ProfileImage.png?raw=true" align="center" style="width: 148px" />
-</div>
+</div> -->
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Stephen.</h1>
 <h3 align="left">I'm an active software developer from London with a passion for<br> design, code + deep thinking to creatively solve problems.</h3>
