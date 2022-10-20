@@ -10,7 +10,7 @@
 
 🔭&nbsp; &nbsp; I’m currently lowering barriers to communication working on: **[Learn Hangeul](https://onessr.github.io/Learn-Hangeul/)**
 
-🌱&nbsp; &nbsp; I’m currently learning **Node, Javascript & Sass**
+🌱&nbsp; &nbsp; I’m currently expanding my knowledge with **React, Next.js & TypeScript**
 
 👯&nbsp; &nbsp; I’m looking to collaborate on **OpenSource Projects**
 
@@ -31,6 +31,10 @@
   <img src="https://img.icons8.com/color/46/figma--v1.pngg"alt="figma logo"/>
   <img src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="illustrator logo"/>
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="photoshop logo"/>
+  <img src="https://img.icons8.com/color/48/markdown.png" alt="markdown logo" style="margin-left: 8px"/>
+  <img src="https://img.icons8.com/ultraviolet/46/react--v1.png" alt="markdown logo" style="margin-left: 8px"/>
+  <img src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui logo" style="margin-left: 8px"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png" alt="nodejs logo" style="margin-left: 8px"/>
 </p>
 <br/>
 
